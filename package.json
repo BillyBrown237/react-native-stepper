@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/colbymillerdev/react-native-progress-steps.git"
+    "url": "git+https://github.com/BillyBrown237/react-native-stepper"
   },
   "keywords": [
     "react-native",
@@ -25,13 +25,30 @@
     "progress steps"
   ],
   "author": "Colby Miller",
+  "maintainers": [
+    {
+      "name": "Kano Dekou Billy Brown",
+      "email": "kano.billybrown@gmail.com",
+      "url": "https://github.com/billybrown237"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Colby Miller",
+      "email": "colby.miller@example.com",
+      "url": "https://github.com/colbymillerdev"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/colbymillerdev/react-native-progress-steps/issues"
+    "url": "https://github.com/BillyBrown237/react-native-stepper/issues"
   },
-  "homepage": "https://github.com/colbymillerdev/react-native-progress-steps#readme",
+  "homepage": "https://github.com/BillyBrown237/react-native-stepper#readme",
   "devDependencies": {
-    "metro-react-native-babel-preset": "^0.51.1"
+    "@types/react": "^18.3.3",
+    "@types/react-native": "^0.73.0",
+    "metro-react-native-babel-preset": "^0.51.1",
+    "typescript": "^5.4.5"
   },
   "dependencies": {
     "lodash": "^4.17.11",
