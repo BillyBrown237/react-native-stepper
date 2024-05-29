@@ -1,11 +1,102 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
 # Logs
+logs
 *.log
-npm-debug.log
+*.log.*
 
-# Runtime data
-tmp
-build
-dist
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
 
-# Dependency directory
-node_modules
+# React Native
+*.expo*
+.expo/
+*.expo-shared/
+
+# React Native Packager
+*.packager
+.packs/
+.packs/index.json
+
+# Testing
+coverage/
+jest/
+jest-cache/
+jest-html-reporters-attach/
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
+*.tscache
+
+# Metro bundler
+.expo/
+.expo-shared/
+.expo*
+.expo-shared*
+node_modules/
+dist/
+build/
+*.expo-shared/
+
+# Miscellaneous
+*.idea
+*.vscode
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Android
+android/.gradle/
+android/app/build/
+android/.idea
+android/local.properties
+android/app/debug
+android/app/release
+android/build/
+android/.settings/
+android/.idea/
+android/.classpath
+android/.project
+android/*.iml
+*.iml
+*.keystore
+android/gradle.properties
+
+# iOS
+ios/Pods/
+ios/Podfile.lock
+ios/Podfile~
+ios/.xcworkspace
+ios/build/
+ios/xcuserdata/
+ios/DerivedData/
+ios/.xcodeproj
+ios/.xcassets
+ios/*.pbxuser
+ios/*.mode1v3
+ios/*.mode2v3
+ios/*.perspectivev3
+ios/*.pbxproj
+
+# Expo
+web-build/
+.expo-shared/
+*.expo-shared/
+.expo*
+.expo-shared
+.DS_Store
