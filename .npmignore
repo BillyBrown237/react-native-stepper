@@ -10,3 +10,10 @@ tmp
 
 # Examples
 examples
+
+# Code files
+/src
+
+#ts config files
+tsconfig.json
+tsup.config.ts

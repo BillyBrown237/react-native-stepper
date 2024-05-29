@@ -35,15 +35,7 @@ jest-html-reporters-attach/
 *.tsbuildinfo
 *.tscache
 
-# Metro bundler
-.expo/
-.expo-shared/
-.expo*
-.expo-shared*
-node_modules/
-dist/
-build/
-*.expo-shared/
+
 
 # Miscellaneous
 *.idea
@@ -60,43 +52,6 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-# Android
-android/.gradle/
-android/app/build/
-android/.idea
-android/local.properties
-android/app/debug
-android/app/release
-android/build/
-android/.settings/
-android/.idea/
-android/.classpath
-android/.project
-android/*.iml
-*.iml
-*.keystore
-android/gradle.properties
 
-# iOS
-ios/Pods/
-ios/Podfile.lock
-ios/Podfile~
-ios/.xcworkspace
-ios/build/
-ios/xcuserdata/
-ios/DerivedData/
-ios/.xcodeproj
-ios/.xcassets
-ios/*.pbxuser
-ios/*.mode1v3
-ios/*.mode2v3
-ios/*.perspectivev3
-ios/*.pbxproj
 
-# Expo
-web-build/
-.expo-shared/
-*.expo-shared/
-.expo*
-.expo-shared
-.DS_Store
+
