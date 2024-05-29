@@ -14,6 +14,9 @@ node_modules/
 jspm_packages/
 bower_components/
 
+# Optional npm cache directory
+dist/
+
 # React Native
 *.expo*
 .expo/
