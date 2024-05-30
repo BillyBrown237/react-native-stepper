@@ -57,6 +57,7 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
+    "@types/lodash": "^4.17.4",
     "lodash": "^4.17.11",
     "prop-types": "^15.6.2"
   }
